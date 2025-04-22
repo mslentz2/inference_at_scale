@@ -1,0 +1,7 @@
+langchain_openai
+datasets
+langchain
+langchain_core
+azure.identity
+azure.keyvault
+scikit-learn 
